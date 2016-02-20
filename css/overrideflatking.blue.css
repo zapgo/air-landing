@@ -15,11 +15,13 @@ body {
 	padding-top: 0;
 }
 p.featuresection {
-	font-size:24px;
-	font-weight: 300;
-	line-height: 35px;
+	font-size: 30px;
+	font-weight: 100;
+	line-height: 40px;
 	margin-bottom: 20px;
-}
+	letter-spacing: 1px;
+	/*font-style: italic;
+*/}
 p.featuresectionmob {
 	font-size:20px;
 	font-weight: 200;
@@ -31,6 +33,9 @@ p.featuresectionmob {
 .padding-top-bottom {
 	padding-top: 50px;
 	padding-bottom: 50px;
+}
+.padding-left {
+	padding-left: 100px;
 }
 .footertext {
 	font-size: 14px;
