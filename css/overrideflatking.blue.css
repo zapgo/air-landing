@@ -15,9 +15,9 @@ body {
 	padding-top: 0;
 }
 p.featuresection {
-	font-size:20px;
+	font-size:24px;
 	font-weight: 300;
-	line-height: 24px;
+	line-height: 35px;
 	margin-bottom: 20px;
 }
 
@@ -32,8 +32,8 @@ p.featuresection {
 	font-size: 14px;
 }
 .sliderhead {
-	font-weight: 100;
-	font-size: 50px;
+	font-weight: 400;
+	font-size: 48px;
 	color: #FFF;
 	background: transparent;
 }
