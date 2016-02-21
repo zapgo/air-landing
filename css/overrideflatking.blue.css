@@ -1,24 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
-h1,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
 	font-family: 'Lato', sans-serif;
 	font-weight: 300; 
 }
-
-h2 {
-	font-family: 'Lato', sans-serif;
-	font-weight: 600;
-	text-transform: uppercase;
-	font-size: 20px;
-	letter-spacing: 3px;
-	color: #51575b;
-
-}
-
 p{
 	font-family: 'Lato', sans-serif;
-	font-weight: 400; 
-	font-size: 16px;
+	font-weight: 300; 
+	font-size: 18px;
 	line-height: 24px;
 	margin-bottom: 20px;
 }
@@ -82,5 +71,5 @@ p.featuresectionmob {
     padding: 136px 0 0 0;
 }
 .phonemargin {
-	margin-top: -70px;
+	margin-top: -50px;
 }
