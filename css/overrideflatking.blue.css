@@ -41,6 +41,9 @@ p.featuresectionmob {
 .padding-top {
 	padding: 80px 0 0 0;
 }
+.padding-bottom {
+	padding: 0 0 80px 0;
+}
 .padding-top-bottom {
 	padding-top: 50px;
 	padding-bottom: 50px;
