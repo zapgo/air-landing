@@ -25,6 +25,16 @@ p{
 body {
 	padding-top: 0;
 }
+
+h1.sections {
+/*	color: #55c0ee;*/
+	color: #515556;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-size: 38px;
+	font-weight: 300px;
+}
+
 p.featuresection {
 	font-size: 30px;
 	font-weight: 100;
