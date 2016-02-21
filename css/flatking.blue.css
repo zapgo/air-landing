@@ -197,6 +197,13 @@ h4.media-heading {
 	padding: 136px 0 0 0;
 }
 
+#myheader {
+	overflow: hidden;
+	padding: 136px 0 0 0;
+	background-color:#55c1ee;
+}
+
+
 /* ------------------------ buttons ----------------------*/
 .btn-king {
 	border: none;
